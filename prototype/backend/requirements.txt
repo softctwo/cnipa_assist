@@ -1,0 +1,35 @@
+# Web框架
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# 数据库
+sqlalchemy==2.0.23
+sqlite3
+
+# 文档处理
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+python-docx==1.1.0
+Pillow==10.1.0
+pytesseract==0.3.10
+
+# AI和机器学习
+requests==2.31.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+torch==2.1.1
+numpy==1.24.3
+
+# 工具库
+python-multipart==0.0.6
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2
+aiofiles==23.2.1
+
+# 开发工具
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+flake8==6.1.0
