@@ -5,7 +5,7 @@ pydantic==2.5.0
 
 # 数据库
 sqlalchemy==2.0.23
-sqlite3
+# SQLite CLI 如需单独使用，请通过操作系统安装（例如：`apt-get install sqlite3`）。
 
 # 文档处理
 PyPDF2==3.0.1
