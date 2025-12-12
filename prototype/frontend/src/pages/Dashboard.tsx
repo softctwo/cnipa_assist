@@ -12,11 +12,10 @@ import {
   Progress,
   Tag
 } from 'antd';
-import { 
-  FileTextOutlined, 
-  CheckCircleOutlined, 
+import {
+  FileTextOutlined,
+  CheckCircleOutlined,
   ClockCircleOutlined,
-  ExclamationCircleOutlined,
   PlusOutlined,
   RobotOutlined
 } from '@ant-design/icons';

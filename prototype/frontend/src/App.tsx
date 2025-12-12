@@ -23,6 +23,7 @@ function App() {
               <Route path="/" element={<Dashboard />} />
               <Route path="/documents" element={<DocumentList />} />
               <Route path="/documents/:id" element={<DocumentDetail />} />
+              <Route path="/examination" element={<ExaminationWorkspace />} />
               <Route path="/examination/:id" element={<ExaminationWorkspace />} />
               <Route path="/ai-analysis" element={<AIAnalysis />} />
               <Route path="/settings" element={<Settings />} />
